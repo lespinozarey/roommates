@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mario Rodríguez",
+    "debe": 23000,
+    "recibe": 0
+  },
+  {
+    "id": 2,
+    "nombre": "Marta Godoy",
+    "debe": 22000,
+    "recibe": 4000
+  },
+  {
+    "id": "28a4c6",
+    "nombre": "Rosel Schell",
+    "debe": 2000,
+    "recibe": 84000
+  },
+  {
+    "id": "2dafc7",
+    "nombre": "Ehrentraud Knopf",
+    "debe": 22000,
+    "recibe": 4000
+  },
+  {
+    "id": "97b7c9",
+    "nombre": "Rose Jean-Baptiste",
+    "debe": 23000,
+    "recibe": 0
+  }
+]
